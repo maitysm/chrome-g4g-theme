@@ -4,6 +4,10 @@ a {
 	color: #333 !important;
 }
 
+a:visited {
+    color: #ca7700 !important;
+}
+
 a.reduceMenuHeight {
     background-color: #ccc !important;
 }
