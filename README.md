@@ -9,7 +9,20 @@ Grey theme for geeksforgeeks website
 
 
 ## Dev guide
-If specific image need to be blocked, add the url of image in `blockedImages` array in file named `contents.js`
+* If specific image need to be blocked, add the url of image in `blockedImages` array in file named `contents.js`
+* To make left side boxes and right side boxes visible, comment below lines in `styles.css`
+
+```
+/*Hide blocks in right side */
+.widget-area{
+	visibility: hidden !important;
+}
+
+/*Hide left side block */
+.leftSideBar {
+    visibility: hidden !important;
+}
+```
 
 
 ## Installation
