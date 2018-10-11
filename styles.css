@@ -1,0 +1,94 @@
+
+/* Href links */
+a {
+	color: #333 !important;
+}
+
+a.reduceMenuHeight {
+    background-color: #999 !important;
+}
+
+a.eventLink {
+    background-color: #ccc !important;
+}
+
+a.login-modal-btn.ButtonContribute {
+    background-color: #ccc !important;
+}
+
+.themonic-nav .current-menu-item>a, .themonic-nav .current-menu-ancestor>a, .themonic-nav .current_page_item>a, .themonic-nav .current_page_ancestor>a{
+	background: none repeat scroll 0 0 #767676 !important;
+}
+
+.nav-previous a, .nav-next>a{
+	background-color: #ccc !important;
+}
+
+.nav-next>a:visited, .nav-previous a:visited{
+	
+}
+
+
+/* serach boxes */
+.gsc-search-button, .gsc-search-button-v2{
+	background-color: #ccc !important;
+}
+
+.responsive-custom-search, .gsc-input-box {
+   border-color: #6f6f6f !important;
+}
+
+/* tables */
+th {
+    border: 1px solid #6f6f6f !important;
+    background-color: #6f6f6f !important;
+}
+
+
+/*Buttons*/
+.runIdeBtn, .savePersonalNoteButton, .addNoteButton, .improveArticleButton, .feedbackButton, .practiceButton{
+    background-color: #ccc !important;
+    border: #ccc !important;
+    color: white !important;
+}
+
+.savePersonalNoteButton:hover, .addNoteButton:hover, .improveArticleButton:hover, .feedbackButton:hover{
+    color: black !important;
+}
+
+input[type="button"] {
+    background-color: #ddd !important;
+}
+
+.level-3, .level-2, .level-4, .easy{
+	background: #2219193d !important;
+}
+
+/* Hide adds by google */
+ins.adsbygoogle {
+    display: none !important;
+}
+
+
+/* Others */
+
+ul#menu-top {
+    background-color: #999 !important;
+}
+
+
+.themonic-nav li ul li a {
+	background-color: #ccc !important;
+}
+
+i.material-icons {
+	background-color: #ccc !important;
+}
+
+div#gsc-iw-id1 {
+	background-color: #ccc !important;
+}
+
+.widget-area .widget a {
+    color: #eee !important;
+}
