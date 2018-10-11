@@ -10,6 +10,6 @@ let blockedImages = ["https://www.geeksforgeeks.org/wp-content/uploads/GeeksforG
 
 for (let i = 0, l = images.length; i < l; i++) {
   if(blockedImages.includes(images[i].src)){
-	 images[i].src=''; 
+	 images[i].style.visibility = 'hidden';
   }
 }
