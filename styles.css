@@ -69,6 +69,16 @@ ins.adsbygoogle {
     display: none !important;
 }
 
+/*Hide blocks in right side */
+.widget-area{
+	visibility: hidden !important;
+}
+
+/*Hide left side block */
+.leftSideBar {
+    visibility: hidden !important;
+}
+
 
 /* Others */
 
