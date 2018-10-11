@@ -28,8 +28,8 @@ Grey theme for geeksforgeeks website
 ## Installation
 1. Download and unzip
 2. Open chrome extension.
-..2. Using url `chrome://extensions/` or
-..2. Chrome -> Settings-> Extension
+    * Using url `chrome://extensions/` or
+    * Chrome -> Settings-> Extension
 3. Enable Develeoper mode (Right side toggle)
 4. Click `Load unpacked` option. Select the folder and click ok.
 May need to restart chrome.
