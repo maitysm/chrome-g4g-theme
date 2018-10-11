@@ -20,3 +20,7 @@ If specific image need to be blocked, add the url of image in `blockedImages` ar
 3. Enable Develeoper mode (Right side toggle)
 4. Click `Load unpacked` option. Select the folder and click ok.
 May need to restart chrome.
+
+
+## Reference
+[Blog by Max](https://blog.lateral.io/2016/04/create-chrome-extension-modify-websites-html-css/)
