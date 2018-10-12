@@ -73,6 +73,11 @@ ins.adsbygoogle {
     display: none !important;
 }
 
+/* Hide google search box */
+div#___gcse_0 {
+    visibility: hidden;
+}
+
 /*Hide blocks in right side */
 .widget-area{
 	visibility: hidden !important;
